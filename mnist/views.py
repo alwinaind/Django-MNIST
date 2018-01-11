@@ -10,7 +10,11 @@ from django.core.files.base import ContentFile
 import numpy as np
 import os
 from keras.models import model_from_json
+<<<<<<< HEAD
 from .forms import ImageData
+=======
+from mnist.forms import ImageData
+>>>>>>> fd4a2d31a4d9e4442c860b4de2950fe8a15f883d
 
 #opening saved model and compiling it before loading the view
 json_file = open('./model/model.json','r')
