@@ -3,7 +3,7 @@ cachetools==2.0.1
 certifi==2017.7.27.1
 chardet==3.0.4
 cycler==0.10.0
-Django==1.11.2
+Django==1.11.28
 django-fcm==0.1.1
 django-tables2==1.10.0
 django-webcam==0.4.2
