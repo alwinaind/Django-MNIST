@@ -7,7 +7,7 @@ Django==1.11.2
 django-fcm==0.1.1
 django-tables2==1.10.0
 django-webcam==0.4.2
-djangorestframework==3.6.4
+djangorestframework==3.11.2
 enum34==1.1.6
 firebase-admin==2.3.0
 gcloud==0.17.0
